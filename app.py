@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 app = Flask(__name__)
-#sample data
+#sample dataa
 items=[{"id":1, "name": "Item 1"}, {"id":2, "name": "Item 2"}]
 
 # Get all items
